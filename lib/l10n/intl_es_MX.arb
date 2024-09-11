@@ -1,0 +1,64 @@
+{
+    "selectCountry": "¿De donde eres?",
+
+    "loginStartSession": "Bienvenido a Hubmine",
+    "loginStartSessionSubtitle": "El ecosistema digital de la construcción",
+
+    "loginEmailLabel": "Correo electrónico",
+    "loginEmailHintText": "Ingresa tu correo electrónico",
+
+    "loginPasswordLabel": "Contraseña",
+    "loginPasswordHintText": "Ingresa tu contraseña",
+
+    "loginOrOption": "o",
+    "loginWithPhoneLabel": "Ingresa con Número de Teléfono",
+    "loginWithEmailLabel": "Ingresa con Correo Electrónico",
+
+    "loginForgotPasswordLink": "¿Olvidaste tu contraseña?",
+
+    "loginButton": "Iniciar sesión",
+
+    "loginBottomNavHaventAccount": "¿No tienes una cuenta? ",
+    "loginBottomNavHaventAccountLink": "Regístrate",
+
+    "loginAsGuest": "Entrar como invitado",
+
+
+    "loginSendCode": "Enviar código",
+
+    "recoveryPasswordTitle": "Recuperar contraseña",
+    "recoveryPasswordSubtitle": "Recupera el acceso a tu cuenta restableciendo tu contraseña",
+
+    "recoveryPasswordButton": "Enviar código de recuperación",
+
+    "validatorEmailError": "Ingresa un email válido",
+    "validatorRequiredField": "Este campo es requerido",
+    "validatorPhoneNumberInvalid": "Número de teléfono inválido",
+
+    "getCodeTitle": "Obtén un código de inicio de sesión",
+    "getCodeSubtitle": "Te enviaremos un SMS al número asociado a tu cuenta",
+    "phoneNumberLabelRequired": "Número de teléfono *",
+    "phoneNumberHint": "Número de teléfono",
+
+    "enterVerificationCodeTitle": "Ingresa el código de verificación",
+    "didntGetACode": "¿No recibiste el código?",
+
+    "resendVerificationCode": "Enviar nuevo código de verificación",
+
+    "verifyCodeLabel": "Verificar",
+
+    "registerWithPhoneTitle": "Solicitar un código para el registro",
+    "registerWithPhoneSubtitle": "Te enviaremos un SMS al número que registres",
+
+    "registerWithPhoneSearchCountry": "Buscar país",
+
+    "weSendACodeText": "Enviamos un código a ",
+    "newCodeSentText": "Nuevo código enviado ✅",
+
+    "registerProfileTitle": "¿Qué te describe mejor?",
+
+    "nextButtonText": "Siguiente",
+
+    "finishedButtonText": "Finalizar registro"
+    
+}

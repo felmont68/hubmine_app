@@ -1,0 +1,64 @@
+{
+    "selectCountry": "Where are you from?",
+
+    "loginStartSession": "Welcome to Hubmine",
+    "loginStartSessionSubtitle": "The all-in-one construction app",
+
+    "loginEmailLabel": "Email",
+    "loginEmailHintText": "Enter your email address",
+
+    "loginPasswordLabel": "Password",
+    "loginPasswordHintText": "Enter your password",
+
+    "loginOrOption": "or",
+    "loginWithPhoneLabel": "Login with Phone number",
+    "loginWithEmailLabel": "Login with email",
+
+    "loginForgotPasswordLink": "Forget your password?",
+
+    "loginButton": "Login",
+
+    "loginBottomNavHaventAccount": "Don't have an account? ",
+    "loginBottomNavHaventAccountLink": "Sign up",
+
+    "loginAsGuest": "Sign in as a guest",
+
+
+    "loginSendCode": "Send code",
+
+    "recoveryPasswordTitle": "Recovery password",
+    "recoveryPasswordSubtitle": "Recovery your account, reset your password",
+
+    "recoveryPasswordButton": "Send recovery code",
+
+    "validatorEmailError": "Enter a valid email",
+    "validatorRequiredField": "This field is required",
+    "validatorPhoneNumberInvalid": "Invalid phone number",
+
+    "getCodeTitle": "Get a login code",
+    "getCodeSubtitle": "We will send an SMS to the number associated with your account",
+    "phoneNumberLabelRequired": "Phone number *",
+    "phoneNumberHint": "Phone number",
+
+    "enterVerificationCodeTitle": "Enter the verification code",
+    "didntGetACode": "Didn't Get a Code?",
+
+    "resendVerificationCode": "Resend the verification code",
+
+    "verifyCodeLabel": "Verify",
+
+    "registerWithPhoneTitle": "Get a code for registration",
+    "registerWithPhoneSubtitle": "We will send an SMS to the number you register",
+
+    "registerWithPhoneSearchCountry": "Search country",
+
+    "weSendACodeText": "We send a code to ",
+    "newCodeSentText": "New code sent ✅",
+
+    "registerProfileTitle": "What best describes you?",
+
+    "nextButtonText": "Next",
+
+    "finishedButtonText": "Finish"
+    
+}
