@@ -7,7 +7,7 @@ import 'package:mining_solutions/main.dart';
 import '../helpers/dio_exceptions.dart';
 
 String baseUrl = 'https://api.mapbox.com/geocoding/v5/mapbox.places';
-String accessToken = dotenv.env['MAPBOX_ACCESS_TOKEN']!;
+String accessToken = "sk.eyJ1IjoiaGV2ZXJydWJpbyIsImEiOiJjbDNkYmx6b3UwNnF2M2ptd29naGNrYWwzIn0.97r4PzYMlW9KT5StDfh2SA";
 String searchType = 'place%2Cpostcode%2Caddress%2Cneighborhood%2Cpoi';
 String searchResultsLimit = '6';
 String proximity =

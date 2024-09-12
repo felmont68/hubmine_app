@@ -231,7 +231,7 @@ class _HomeState extends State<HomeDriver> {
                     "mapbox://styles/heverrubio/cl3i00jas00br14quxej35p1a",
                 onMapCreated: _onMapCreated,
                 myLocationTrackingMode: MyLocationTrackingMode.TrackingGPS,
-                accessToken: dotenv.env['MAPBOX_ACCESS_TOKEN']!,
+                accessToken: "sk.eyJ1IjoiaGV2ZXJydWJpbyIsImEiOiJjbDNkYmx6b3UwNnF2M2ptd29naGNrYWwzIn0.97r4PzYMlW9KT5StDfh2SA",
                 initialCameraPosition: _initialCameraPosition,
                 myLocationEnabled: true,
               ),
